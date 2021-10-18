@@ -1,0 +1,220 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPage.master" AutoEventWireup="true" CodeFile="team.aspx.cs" Inherits="team" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="contentPlaceHolders" Runat="Server">
+  <div class="page clearfix">
+	
+		<div class="whiteBg">
+			<div class="wrap fullContent clearfix">
+				<h3>Superior Team</h3>
+
+				<ul class="team">
+					<li>
+						<div>
+							<img src="images/team/denise-lamothe.jpg" alt="">
+						</div>
+						<p>
+							<b>Denise LaMothe</b>
+							<br>
+							Owner
+							<br>
+							<a href="mailto:info@superiorabstract.com">Email</a>
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/andi-lee.jpg" alt="">
+						</div>
+						<p>
+							<b>Andi Lee</b>
+							<br>
+							Director of Marketing
+							<br>
+							<a href="mailto:info@superiorabstract.com">Email</a>
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/shannon-lokey.jpg" alt="">
+						</div>
+						<p>
+							<b>Shannon Lokey</b>
+							<br>
+							Sr. Escrow Officer
+							<br>
+							<a href="mailto:Texasteam3@superiorabstract.com">Email</a>
+						</p>
+					</li>
+					
+					
+					
+					<!--<li>
+						<div>
+							<img src="images/team/no-photo.jpg" alt="">
+						</div>
+						<p>
+							<b>Cathy Mozelle</b>
+							<br>
+							Sr. Escrow Officer
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/jeanne-mcminn.jpg" alt="">
+						</div>
+						<p>
+							<b>Jeanne McMinn</b>
+							<br>
+							Escrow Officer
+						</p>
+					</li>
+					
+					<li>
+						<div>
+							<img src="images/team/Philip-DeBourbon.jpg" alt="">
+						</div>
+						<p>
+							<b>Philip DeBourbon</b>
+							<br>
+							Escrow Officer
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/Rachell-Andrew.jpg" alt="">
+						</div>
+						<p>
+							<b>Rachell Andrew</b>
+							<br>
+							Escrow Assistant
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/no-photo.jpg" alt="">
+						</div>
+						<p>
+							<b>Ashley Knight</b>
+							<br>
+							Escrow Assistant
+						</p>
+					</li>
+					
+					<li>
+						<div>
+							<img src="images/team/no-photo.jpg" alt="">
+						</div>
+						<p>
+							<b>Kyle Remedes</b>
+							<br>
+							Escrow Assistant
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/Lorena-Wells.jpg" alt="">
+						</div>
+						<p>
+							<b>Lorena Wells</b>
+							<br>
+							Junior Escrow Assistant
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/angie-garcia.jpg" alt="">
+						</div>
+						<p>
+							<b>Angie Garcia</b>
+							<br>
+							Junior Escrow Assistant
+						</p>
+					</li>
+					
+					<li>
+						<div>
+							<img src="images/team/Lauren-Williams.jpg" alt="">
+						</div>
+						<p>
+							<b>Lauren Williams</b>
+							<br>
+							Junior Escrow Assistant
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/Megan-Lewey.jpg" alt="">
+						</div>
+						<p>
+							<b>Megan Lewey</b>
+							<br>
+							Junior Escrow Assistant
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/julie-sirmans.jpg" alt="">
+						</div>
+						<p>
+							<b>Julie Sirmans</b>
+							<br>
+							Sr. Plant Examiner
+						</p>
+					</li>
+					
+					<li>
+						<div>
+							<img src="images/team/Becky-Moore.jpg" alt="">
+						</div>
+						<p>
+							<b>Becky Moore</b>
+							<br>
+							Plant Abstractor
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/Lana-Mayo.jpg" alt="">
+						</div>
+						<p>
+							<b>Lana Mayo</b>
+							<br>
+							Post Closing Specialist
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/Margaret-Hettler.jpg" alt="">
+						</div>
+						<p>
+							<b>Margaret Hettler</b>
+							<br>
+							Policy Specialist
+						</p>
+					</li>
+					
+					<li>
+						<div>
+							<img src="images/team/sandra-barker.jpg" alt="">
+						</div>
+						<p>
+							<b>Sandra Barker</b>
+							<br>
+							Policy Specialist
+						</p>
+					</li>
+					<li>
+						<div>
+							<img src="images/team/no-photo.jpg" alt="">
+						</div>
+						<p>
+							<b>Sandra Bendig</b>
+							<br>
+							Receptionist
+						</p>
+					</li>-->
+				</ul>
+			</div>
+		</div>
+  </div>
+</asp:Content>
+

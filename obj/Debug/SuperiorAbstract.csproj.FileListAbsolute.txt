@@ -1,0 +1,10 @@
+G:/Proyectos/Marketcenter/Superior Abstract/SuperiorAbstractWCF/SuperiorAbstractWeb/SuperiorAbstract/obj/Debug/SuperiorAbstract.csprojResolveAssemblyReference.cache
+G:/Proyectos/Marketcenter/Superior Abstract/SuperiorAbstractWCF/SuperiorAbstractWeb/SuperiorAbstract/bin/SuperiorAbstract.dll
+G:/Proyectos/Marketcenter/Superior Abstract/SuperiorAbstractWCF/SuperiorAbstractWeb/SuperiorAbstract/bin/SuperiorAbstract.pdb
+G:/Proyectos/Marketcenter/Superior Abstract/SuperiorAbstractWCF/SuperiorAbstractWeb/SuperiorAbstract/obj/Debug/SuperiorAbstract.dll
+G:/Proyectos/Marketcenter/Superior Abstract/SuperiorAbstractWCF/SuperiorAbstractWeb/SuperiorAbstract/obj/Debug/SuperiorAbstract.pdb
+/Users/sagar/Downloads/LWBACKUP/superiorabstract.com/httpdocs/obj/Debug/SuperiorAbstract.csproj.CoreCompileInputs.cache
+/Users/sagar/Downloads/LWBACKUP/superiorabstract.com/httpdocs/bin/SuperiorAbstract.dll
+/Users/sagar/Downloads/LWBACKUP/superiorabstract.com/httpdocs/bin/SuperiorAbstract.pdb
+/Users/sagar/Downloads/LWBACKUP/superiorabstract.com/httpdocs/obj/Debug/SuperiorAbstract.dll
+/Users/sagar/Downloads/LWBACKUP/superiorabstract.com/httpdocs/obj/Debug/SuperiorAbstract.pdb

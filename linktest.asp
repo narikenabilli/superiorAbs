@@ -1,0 +1,2 @@
+
+<a href="mailto:consumer.complaints@dob.texas.gov" onclick="alert('Email is not secure. HBank Texas strongly recommends that you never enter any confidential information such as Bank Account Numbers, Passwords, or Social Security Numbers in an email.')">consumer.complaints@dob.texas.gov</a><br />
